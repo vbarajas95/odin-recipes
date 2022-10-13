@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project from the Foundation Courses of The Odin Project. The project emphasizes the use of Git and HTML to create a GitHub repository consisting of a webpage showcasing a variety of recipes.  
